@@ -1,0 +1,17 @@
+{
+  "name": "Youtube Content Filter",
+  "description": "Hide unwanted videos",
+  "version": "1.0",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon128.png",
+    "48": "icon48.png",
+    "16": "icon16.png"
+  },
+  "page_action": {
+      "default_popup": "app.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
