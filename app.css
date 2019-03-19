@@ -1,0 +1,15 @@
+#filterBtn {
+  background-color: #0069d9; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#filterTxt {
+    width: 25px;
+    height: 10px;
+}
